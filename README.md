@@ -4,10 +4,11 @@
 <h3 align="center">👉 A passionate <i>Frontend Developer</i>   👈</h3>
 <br />
 <div align="center">
- 🔭Working on building strong understanding on Frontend Applications.
-🌱I am currently learning Node.js,Express,mongoDB
+ 🔭Working on building strong understanding on Frontend Applications. 
+    <br />
 </div>
 
+<hr />
 
 
 <div align="center"> 
@@ -17,5 +18,20 @@
   <a href="https://www.linkedin.com/in/bibek-shrestha-86a91318b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
 </div>
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,javascript,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,git" />
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bibek190/bibek190/output/github-contribution-grid-snake.svg" />  
+  <br/><br/><br/>
+</div>
+
+
+
