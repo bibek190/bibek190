@@ -4,7 +4,7 @@
 <h3 align="center">👉 A passionate <i>Frontend Developer</i>   👈</h3>
 <br />
 <div align="center">
- 🔭Working on building strong understanding on Frontend Applications. 
+ 🔭Building strong Frontend skills. 
     <br />
 </div>
 
