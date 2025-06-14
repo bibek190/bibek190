@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+It's+Bibek+here+👨🏽‍💻!;" />
 </h1>
-<h3 align="center">👉 A passionate <i>Frontend Developer</i>   👈</h3>
+<h3 align="center">👉 A passionate <i>FullStack Developer</i>   👈</h3>
 <br />
 <div align="center">
  🔭Building strong Frontend skills. 
@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,firebase," /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,git,node,express,mongodb" />
 </div>
 
 <h3 align="center">
