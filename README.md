@@ -4,7 +4,7 @@
 <h3 align="center">👉 A passionate <i>FullStack Developer</i>   👈</h3>
 <br />
 <div align="center">
- 🔭Building strong Frontend skills. 
+ 🔭Currently building full Stack Applications. 
     <br />
 </div>
 
@@ -22,7 +22,7 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=github,javascript,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,git,express,mongodb,node" />
 </div>
 
